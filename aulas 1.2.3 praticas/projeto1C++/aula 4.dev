@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+        setlocale(LC-ALL, "Portuguese_Brasil");
+        
+        int n1, n2, media;
+        
+        printf("programa para calcular média final\n\n");
+        
+        printf("primeira nota: ");
+        scanf("%d", & an1);
+        printf("segunda nota: ");
+        scanf("%d", & an2)
+
+
+	return 0;
+}
